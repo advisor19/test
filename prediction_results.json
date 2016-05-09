@@ -1,0 +1,46 @@
+[
+	{
+		"homeTeam": "Chelsea",
+		"awayTeam": "Tottenham Hotspur",
+		"homeLogo": "http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg",
+		"awayLogo": "http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg",
+		"matchday": "36",
+    "date": "2 May, 2016",
+    "ownPrediction": "1X (Chelsea win or draw)",
+    "predictionResult": "2 - 2",
+    "color": "#E6FFCC"
+	},
+  {
+    "homeTeam": "Werder",
+    "awayTeam": "Stuttgart",
+    "homeLogo": "http://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/a/ab/VfB_Stuttgart_Logo.svg",
+    "matchday": "32",
+    "date": "2 May, 2016",
+    "ownPrediction": "Stuttgart score over 2 ",
+    "predictionResult": "6 - 2",
+    "color": "#FFEECC"
+  },
+  {
+    "homeTeam": "Malaga",
+    "awayTeam": "Levante",
+    "homeLogo": "http://upload.wikimedia.org/wikipedia/de/e/e8/FC_M%C3%A1laga.svg",
+    "awayLogo": "http://upload.wikimedia.org/wikipedia/de/1/1f/Levante_ud.svg",
+    "matchday": "36",
+    "date": "2 May, 2016",
+    "ownPrediction": "Levante Win",
+    "predictionResult": "3 - 1",
+    "color": "#FFCCCC"
+  },
+  {
+    "homeTeam": "Genoa CFC",
+    "awayTeam": "AS Roma",
+    "homeLogo": "http://upload.wikimedia.org/wikipedia/de/7/76/Genoa_CFC.svg",
+    "awayLogo": "http://upload.wikimedia.org/wikipedia/de/3/32/AS_Rom.svg",
+    "matchday": "36",
+    "date": "2 May, 2016",
+    "ownPrediction": "AS Roma win",
+    "predictionResult": "2 - 3",
+    "color": "#E6FFCC"
+  }
+]

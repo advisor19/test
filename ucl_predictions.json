@@ -1,0 +1,13 @@
+[
+  {
+    "homeTeam": "Chelsea",
+    "awayTeam": "Liverpool",
+    "homeLogo": "http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg",
+    "awayLogo": "http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg",
+    "matchday": "35",
+    "event": "chelsea-liverpool",
+    "date": "5 May, 2016",
+    "startDate": "4-5-2016",
+    "prediction": "Chelsea Win"
+  }
+]

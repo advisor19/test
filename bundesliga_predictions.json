@@ -1,0 +1,57 @@
+[
+  {
+    "homeTeam": "Eintracht Frankfurt",
+    "awayTeam": "Borussia Dortmund",
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
+    "matchday": "33",
+    "event": "Eintracht Frankfurt - Borussia Dortmund",
+    "date": "7 May, 2016",
+    "startDate": "7-5-2016",
+    "prediction": "Borussia Dortmund individual: >1,5"
+  },
+  {
+    "homeTeam": "Bor. Mönchengladbach",
+    "awayTeam": "Bayer Leverkusen",
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_M%C3%B6nchengladbach_logo.svg",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/de/9/95/Bayer_04_Leverkusen_Logo.svg",
+    "matchday": "33",
+    "event": "Bor. Mönchengladbach - Bayer Leverkusen",
+    "date": "7 May, 2016",
+    "startDate": "7-5-2016",
+    "prediction": "1X (Bor. Mönchengladbach win or draw)"
+  },
+  {
+    "homeTeam": "Hamburger SV",
+    "awayTeam": "VfL Wolfsburg",
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/6/66/HSV-Logo.svg",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg",
+    "matchday": "33",
+    "event": "Hamburger SV - VfL Wolfsburg",
+    "date": "7 May, 2016",
+    "startDate": "7-5-2016",
+    "prediction": "Total: >1,5"
+  },
+  {
+    "homeTeam": "Hannover 96",
+    "awayTeam": "TSG 1899 Hoffenheim",
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/de/c/cd/Hannover_96_Logo.svg",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/de/e/e7/Logo_TSG_Hoffenheim.svg",
+    "matchday": "33",
+    "event": "Hannover 96 - TSG 1899 Hoffenheim",
+    "date": "7 May, 2016",
+    "startDate": "7-5-2016",
+    "prediction": "Team to score: TSG 1899 Hoffenheim"
+  },
+  {
+    "homeTeam": "1. FC Köln ",
+    "awayTeam": "FC Werder Bremen",
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/de/1/16/1._FC_K%C3%B6ln.svg",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg",
+    "matchday": "33",
+    "event": "1. FC Köln - FC Werder Bremen",
+    "date": "7 May, 2016",
+    "startDate": "7-5-2016",
+    "prediction": "Team to score: FC Werder Bremen"
+  }
+]
