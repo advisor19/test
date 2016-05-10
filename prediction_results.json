@@ -55,17 +55,6 @@
     "color": "#E6FFCC"
 	},
 		{
-    "homeTeam": "1. FC Köln ",
-    "awayTeam": "FC Werder Bremen",
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/de/1/16/1._FC_K%C3%B6ln.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg",
-    "matchday": "33",
-    "date": "7 May, 2016",
-    "ownPrediction": "Team to score: FC Werder Bremen",
-    "predictionResult": "0 - 0",
-    "color": "#FFCCCC"
-	},
-		{
     "homeTeam": "Internazionale",
     "awayTeam": "Empoli FC",
     "homeLogo": "https://upload.wikimedia.org/wikipedia/it/7/7e/Logo_FC_Internazionale_Milano_2014.png",
