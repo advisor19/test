@@ -1,0 +1,68 @@
+[
+  {
+    "homeTeam": "Internazionale",
+    "awayTeam": "Empoli FC",
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/it/7/7e/Logo_FC_Internazionale_Milano_2014.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/de/4/42/Logo_FC_Empoli.svg",
+    "matchday": "37",
+    "event": "Internazionale - Empoli FC",
+    "date": "7 May, 2016",
+    "startDate": "7-5-2016",
+    "prediction": "Internazionale win"
+  },
+  {
+    "homeTeam": "Bologna",
+    "awayTeam": "Milan",
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/de/9/92/FC_Bologna.svg",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/de/9/9e/AC_Mailand_Logo.svg",
+    "matchday": "37",
+    "event": "Bologna - Milan",
+    "date": "7 May, 2016",
+    "startDate": "7-5-2016",
+    "prediction": "2X (Milan win or draw)"
+  },
+  {
+    "homeTeam": "AS Roma",
+    "awayTeam": "Chievo Verona",
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/de/3/32/AS_Rom.svg",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/de/3/3f/AC_Chievo_Verona.svg",
+    "matchday": "37",
+    "event": "AS Roma - Chievo Verona",
+    "date": "8 May, 2016",
+    "startDate": "8-5-2016",
+    "prediction": "AS Roma win"
+  },
+  {
+    "homeTeam": "Carpi FC",
+    "awayTeam": "Lazio",
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/uk/0/0b/Carpi_FC_1909_logo.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/de/thumb/4/47/Lazio_Rom.svg/500px-Lazio_Rom.svg.png",
+    "matchday": "37",
+    "event": "Carpi FC - Lazio",
+    "date": "8 May, 2016",
+    "startDate": "8-5-2016",
+    "prediction": "2X (Lazio win or draw)"
+  },
+  {
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Palermo",
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/de/d/de/AC_Florenz.svg",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/de/7/7f/US_Palermo.svg",
+    "matchday": "37",
+    "event": "Fiorentina - Palermo",
+    "date": "10 May, 2016",
+    "startDate": "10-5-2016",
+    "prediction": "1x (Fiorentina win or draw)"
+  },
+  {
+    "homeTeam": "Torino FC",
+    "awayTeam": "Napoli",
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/de/2/2e/Torino_FC_Logo.svg",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg",
+    "matchday": "37",
+    "event": "Torino FC - Napoli",
+    "date": "10 May, 2016",
+    "startDate": "10-5-2016",
+    "prediction": "Napoli individual: >1,5"
+  }
+]
