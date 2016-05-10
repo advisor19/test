@@ -44,17 +44,6 @@
     "color": "#E6FFCC"
 	},
 		{
-    "homeTeam": "Eintracht Frankfurt",
-    "awayTeam": "Borussia Dortmund",
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
-    "matchday": "33",
-    "date": "7 May, 2016",
-    "ownPrediction": "Borussia Dortmund individual: >1.5",
-    "predictionResult": "1 - 0",
-    "color": "#FFCCCC"
-	},
-		{
     "homeTeam": "Bor. Mönchengladbach",
     "awayTeam": "Bayer Leverkusen",
     "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_M%C3%B6nchengladbach_logo.svg",
@@ -64,28 +53,6 @@
     "ownPrediction": "1X (Bor. Mönchengladbach win or draw)",
     "predictionResult": "2 - 1",
     "color": "#E6FFCC"
-	},
-		{
-    "homeTeam": "Hamburger SV",
-    "awayTeam": "VfL Wolfsburg",
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/6/66/HSV-Logo.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg",
-    "matchday": "33",
-    "date": "7 May, 2016",
-    "ownPrediction": "Total: >1.5",
-    "predictionResult": "0 - 1",
-    "color": "#FFCCCC"
-	},
-		{
-    "homeTeam": "Hannover 96",
-    "awayTeam": "TSG 1899 Hoffenheim",
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/de/c/cd/Hannover_96_Logo.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/de/e/e7/Logo_TSG_Hoffenheim.svg",
-    "matchday": "33",
-    "date": "7 May, 2016",
-    "ownPrediction": "Team to score: TSG 1899 Hoffenheim",
-    "predictionResult": "1 - 0",
-    "color": "#FFCCCC"
 	},
 		{
     "homeTeam": "1. FC Köln ",
