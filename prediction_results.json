@@ -121,17 +121,6 @@
     "color": "#E6FFCC"
 	},
 		{
-    "homeTeam": "Norwich City",
-    "awayTeam": "Manchester United",
-    "homeLogo": "http://upload.wikimedia.org/wikipedia/de/8/8c/Norwich_City.svg",
-    "awayLogo": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg",
-    "matchday": "37",
-    "date": "7 May, 2016",
-    "ownPrediction": "2X (Man Utd. win or draw)",
-    "predictionResult": "0 - 1",
-    "color": "#E6FFCC"
-	},
-		{
     "homeTeam": "Aston Villa",
     "awayTeam": "Newcastle Utd.",
     "homeLogo": "http://upload.wikimedia.org/wikipedia/de/9/9f/Aston_Villa_logo.svg",
