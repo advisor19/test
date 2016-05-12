@@ -99,17 +99,6 @@
     "color": "#E6FFCC"
 	},
 		{
-		"homeTeam": "Chelsea",
-		"awayTeam": "Tottenham Hotspur",
-		"homeLogo": "http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg",
-		"awayLogo": "http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg",
-		"matchday": "36",
-    "date": "2 May, 2016",
-    "ownPrediction": "1X (Chelsea win or draw)",
-    "predictionResult": "2 - 2",
-    "color": "#E6FFCC"
-	},
-		{
     "homeTeam": "Carpi FC",
     "awayTeam": "Lazio",
     "homeLogo": "https://upload.wikimedia.org/wikipedia/uk/0/0b/Carpi_FC_1909_logo.png",
@@ -129,28 +118,6 @@
     "date": "8 May, 2016",
     "ownPrediction": "1X (Fiorentina win or draw)",
     "predictionResult": "0 - 0",
-    "color": "#E6FFCC"
-	},
-		{
-    "homeTeam": "Torino FC",
-    "awayTeam": "Napoli",
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/de/2/2e/Torino_FC_Logo.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg",
-    "matchday": "37",
-    "date": "8 May, 2016",
-    "ownPrediction": "1X (Chelsea win or draw)",
-    "predictionResult": "2 - 2",
-    "color": "#E6FFCC"
-	},
-		{
-		"homeTeam": "Chelsea",
-		"awayTeam": "Tottenham Hotspur",
-		"homeLogo": "http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg",
-		"awayLogo": "http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg",
-		"matchday": "36",
-    "date": "8 May, 2016",
-    "ownPrediction": "Napoli individual: >1.5",
-    "predictionResult": "1 - 2",
     "color": "#E6FFCC"
 	},
 		{
