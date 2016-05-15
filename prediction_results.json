@@ -187,17 +187,6 @@
     "color": "#E6FFCC"
   },
   {
-    "homeTeam": "Tottenham Hotspur",
-    "awayTeam": "Southampton",
-    "homeLogo": "http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg",
-    "matchday": "37",
-    "date": "8 May, 2016",
-    "ownPrediction": "Tottenham individual: >1.0",
-    "predictionResult": "1 - 2",
-    "color": "#FFEECC"
-  },
-  {
     "homeTeam": "Liverpool",
     "awayTeam": "Watford FC",
     "homeLogo": "https://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg",
