@@ -242,17 +242,6 @@
     "color": "#E6FFCC"
   },
   {
-    "homeTeam": "Sporting Gijon",
-    "awayTeam": "Villareal",
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/de/4/48/Real_Sporting_de_Gijon.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/de/7/70/Villarreal_CF_logo.svg",
-    "matchday": "38",
-    "date": "15 May, 2016",
-    "ownPrediction": "Team to score: Villareal",
-    "predictionResult": "",
-    "color": "#E6FFCC"
-  },
-  {
     "homeTeam": "RCD Espanyol",
     "awayTeam": "SD Eibar",
     "homeLogo": "https://upload.wikimedia.org/wikipedia/de/a/a7/RCD_Espanyol_De_Barcelona.svg",
@@ -282,7 +271,7 @@
     "matchday": "38",
     "date": "15 May, 2016",
     "ownPrediction": "1X (Genoa win or draw)",
-    "predictionResult": "",
+    "predictionResult": "1 - 2",
     "color": "#E6FFCC"
   },
   {
@@ -293,18 +282,7 @@
     "matchday": "38",
     "date": "15 May, 2016",
     "ownPrediction": "1X (Chievo Verona win or draw)",
-    "predictionResult": "",
-    "color": "#E6FFCC"
-  },
-  {
-    "homeTeam": "Uninese",
-    "awayTeam": "Carpi FC",
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/de/b/b1/Udinese_Calcio.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/uk/0/0b/Carpi_FC_1909_logo.png",
-    "matchday": "38",
-    "date": "15 May, 2016",
-    "ownPrediction": "Carpi FC handicap: (+1)",
-    "predictionResult": "",
+    "predictionResult": "0 - 0",
     "color": "#E6FFCC"
   },
   {
