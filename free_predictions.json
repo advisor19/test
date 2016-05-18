@@ -1,13 +1,3 @@
 [
-	{
-        "homeTeam": "Liverpool",
-        "awayTeam": "Sevilla",
-        "homeLogo": "https://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg",
-        "awayLogo": "https://upload.wikimedia.org/wikipedia/en/8/86/Sevilla_cf_200px.png",
-        "matchday": "Final",
-        "event": "Europe League Final",
-        "date": "18 May, 2016",
-        "startDate": "19-05-2016",
-        "prediction": "Total > 1.5"
-      }
+
 ]
