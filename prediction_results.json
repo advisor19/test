@@ -1,5 +1,16 @@
 [
   {
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Atlético Madrid",
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg",
+    "matchday": "Final",
+    "date": "27 May, 2016",
+    "ownPrediction": "Atlético Madrid (+ 1)",
+    "predictionResult": "1 - 1",
+    "color": "#E6FFCC"
+  }
+  {
     "homeTeam": "Liverpool",
     "awayTeam": "Sevilla",
     "homeLogo": "https://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg",
